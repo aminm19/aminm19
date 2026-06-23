@@ -25,7 +25,7 @@ const amin = {
 **[Total Football](https://github.com/aminm19/football-app)** — A full-stack live football (soccer) score app.
 React + Vite frontend, Node/Express backend on Neon Postgres, wrapping API-Football. Standings, teams, and matches routes are cached and rate-limited so the upstream API never gets hammered. This is the deep technical piece of my portfolio.
 
-**[The Four Winds](https://github.com/aminm19/the-four-winds)** — Weather app in vanilla JS bundled with Webpack, pulling from a dual-API setup. Built to understand the fundamentals before reaching for a framework.
+**[The Four Winds](https://github.com/aminm19/weather-app)** — Weather app in vanilla JS bundled with Webpack, pulling from a dual-API setup. Built to understand the fundamentals before reaching for a framework.
 
 **[CV Generator](https://github.com/aminm19/cv-generator)** — React 19 app that builds and exports a formatted resume to PDF.
 
