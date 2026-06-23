@@ -47,5 +47,5 @@ React + Vite frontend, Node/Express backend on Neon Postgres, wrapping API-Footb
 
 ### 📊 GitHub Stats
 
-![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aminm19&show_icons=true&hide_border=true)
+![Amin's GitHub summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminm19&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminm19&layout=compact&hide_border=true)
