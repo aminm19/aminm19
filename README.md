@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/aminmojarad/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="32"></a>
 <a href="mailto:aminmojarad1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32"></a>
 
-Self-taught software engineer with a background in civil engineering and mathematics (Columbia & Wesleyan). Currently building full-stack applications with a focus on clean APIs, sensible caching, and frontends that don't get in the way.
+Self-taught software engineer with a background in civil engineering and mathematics (Columbia & Wesleyan). Currently building full-stack applications with a focus on clean APIs, sensible caching, and clean, functional frontends.
 
 ```js
 const amin = {
