@@ -6,7 +6,6 @@
 ### About Me
 
 💻 Self-taught software engineer
-
 🎓 BS Mathematics and Civil Engineering (Columbia & Wesleyan).  
 🚀 Currently building full-stack applications with a focus on clean APIs, sensible caching, and clean, functional frontends.
 
