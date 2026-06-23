@@ -1,7 +1,7 @@
 # Hi, I'm Amin 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminmojarad1@gmail.com)
+<a href="https://www.linkedin.com/in/aminmojarad/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32"></a>
+<a href="mailto:aminmojarad1@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="32"></a>
 
 Self-taught software engineer with a background in civil engineering and mathematics (Columbia & Wesleyan). Currently building full-stack applications with a focus on clean APIs, sensible caching, and frontends that don't get in the way.
 
