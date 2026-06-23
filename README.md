@@ -5,7 +5,7 @@
 
 ### About Me
 
-🎓 Self-taught software engineer with a background in civil engineering and mathematics (Columbia & Wesleyan).  
+🎓 Self-taught software engineer with a background in mathematics and civil engineering (Columbia & Wesleyan).  
 🚀 Currently building full-stack applications with a focus on clean APIs, sensible caching, and clean, functional frontends.
 
 ```js
