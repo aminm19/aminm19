@@ -7,7 +7,7 @@
 
 💻 Self-taught software engineer <br>
 🎓 BS Mathematics and Civil Engineering (Columbia & Wesleyan) <br>
-🚀 Currently building full-stack applications with a focus on clean APIs, sensible caching, and clean, functional frontends.
+🚀 Currently building full-stack applications
 
 ```js
 const amin = {
