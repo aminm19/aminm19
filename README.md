@@ -24,13 +24,13 @@ const amin = {
 ### 🔭 What I'm building
 
 **[Total Football](https://github.com/aminm19/football-app)** — A full-stack live football (soccer) score app.
-React + Vite frontend, Node/Express backend on Neon Postgres, wrapping API-Football. Standings, teams, and matches routes are cached and rate-limited so the upstream API never gets hammered. This is the deep technical piece of my portfolio.
+React + Vite frontend, Node/Express backend on Neon Postgres, wrapping API-Football. Standings, teams, and matches routes are cached and rate-limited so the upstream API call never bounces
 
-**[The Four Winds](https://github.com/aminm19/weather-app)** — Weather app in vanilla JS bundled with Webpack, pulling from a dual-API setup. Built to understand the fundamentals before reaching for a framework.
+**[Diet Tracker](https://github.com/aminm19/diet-tracker)** — Full-stack diet tracker with food search, daily logging, and a configurable health score, backed by real USDA/Open Food Facts nutrition data. React/Vite frontend, Hono + Postgres backend, deployed on Vercel and Render
 
-**[CV Generator](https://github.com/aminm19/cv-generator)** — React 19 app that builds and exports a formatted resume to PDF.
+**[CV Generator](https://github.com/aminm19/cv-generator)** — React 19 app that builds and exports a formatted resume to PDF
 
-**[Knight Travails](https://github.com/aminm19/knight-travails)** — Interactive chessboard that finds the shortest knight's path between two squares using breadth-first search.
+**[Knight Travails](https://github.com/aminm19/knight-travails)** — Interactive chessboard that finds the shortest knight's path between two squares using breadth-first search
 
 ---
 
